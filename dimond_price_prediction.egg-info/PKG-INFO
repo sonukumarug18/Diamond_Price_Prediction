@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: dimond-price-prediction
+Version: 0.0.1
+Author: Sonu
+Author-email: sonukumarug18@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: flask
